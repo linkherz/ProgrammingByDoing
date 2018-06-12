@@ -6,7 +6,7 @@
 package Function;
 
 /**
- *
+ * programmed by Graham Mitchell. This is when we have to fill in uncompleted src code functions
  * @author Usui Takumi
  */
 public class FillInFunctions
